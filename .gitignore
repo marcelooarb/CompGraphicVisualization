@@ -1,0 +1,46 @@
+# Visual Studio workspace and user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]ut/
+[Bb]uild/
+
+# C/C++ compiler and linker artifacts
+*.obj
+*.o
+*.idb
+*.ipch
+*.pch
+*.ilk
+*.pdb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+*.exe
+
+# Visual Studio database/cache files
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+*.opendb
+*.sqlite
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*~
